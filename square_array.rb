@@ -6,3 +6,7 @@ def square_array(array)
   end
 arr_new
 end
+
+# def square_array(array)
+#   array.map {|item| item * item}
+# end
